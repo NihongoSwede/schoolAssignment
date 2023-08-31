@@ -2,12 +2,15 @@
 
 body {
     font-family: 'Uber Move Text', sans-serif;
+    margin: 0;
+
 }
 
 *{
     padding: 0px;
     margin: 0;
     box-sizing: border-box;
+    outline: none !important;
 }
 
 ul {
